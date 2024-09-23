@@ -108,7 +108,7 @@ Yes! Nesting shortcodes is supported.
 * Removed extra prefixing due to the fact that it can be easily done via the overview page
 
 = Version 1.0.0 (20th October 2015) =
-* Shorty was born!
+* Shorty was born! dasdasd
 
 == Upgrade Notice ==
 
